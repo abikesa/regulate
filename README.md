@@ -1,2 +1,1 @@
-# regulate
-~/.ssh/id_innovateregulate
+# ~/.ssh/id_innovateregulate
